@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+font-size: xx-large;
+text-align: center;
+}
+h2 {
+font-family: 'Roboto Condensed', sans-serif;
+font-size: x-large;
+font-weight: 700;
+font-style: normal;
+color:hotpink;
+text-align: center;
+border: 3px solid black;
+}
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+background-color:lightgrey;
+}
+html{
+    background-color: white;
+}
+li {
+    font-family: 'Roboto Condensed', sans-serif; 
+}
